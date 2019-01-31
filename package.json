@@ -1,0 +1,11 @@
+{
+  "name": "stdout-intercept",
+  "version": "0.1.0-alpha.0",
+  "main": "index.js",
+  "repository": "git@github.com:cornerstone-digital/stdout-intercept.git",
+  "author": "Martin Egan <martingegan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash.toarray": "4.4.0"
+  }
+}
